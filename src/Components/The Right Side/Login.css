@@ -1,0 +1,48 @@
+.login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+img{
+    margin: 30px;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+input{
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    width: 400px;
+    height: 50px;
+    border:none;
+    background-color: rgb(192, 25, 25);
+    color: white;
+    cursor: pointer;
+    border-radius: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+span{
+    font-size: 14px;
+    color: red;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+}

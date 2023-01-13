@@ -1,14 +1,14 @@
-import Sidebar from  './Components/Sidebar'
-import Dashboard  from './Components/MainSection/Dashboard';
-import Budgetplan from './Components/MainSection/Budgetplan';
-import Statistics from './Components/MainSection/Statistics'
-import SignOut from './Components/The Right Side/SignOut'
+import Sidebar from  '../Sidebar'
+import Dashboard  from '../MainSection/Dashboard';
+import Budgetplan from '../MainSection/Budgetplan';
+import Statistics from '../MainSection/Statistics'
+import SignOut from '../The Right Side/SignOut'
 import React from 'react';
-import './App.css'
+import './Home.css'
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-function App() {
+function Home() {
 
 
   return (
@@ -30,4 +30,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
