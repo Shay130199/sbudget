@@ -35,4 +35,54 @@ The agile methodology processor does not discontinue from there with this method
 
  As shown on the survey there are a lot of improvements as the application isn’t finished to a high standard due to time management issues and technical issues. The overall conclusion to this is to follow a better step-by-step plan so that time management is not affected throughout the project. 
 
+## references
+
+Reference List
+
+
+Save the Student. (2022.). Student Money Survey 2022 – The results are in. [online] Available at: https://www.savethestudent.org/money/surveys/student-money-survey-2022-results.html.
+
+Wrike (2022). What Is Agile Methodology in Project Management?. [online]  [Accessed 3 Oct. 2022]. Available at: https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/ 
+
+‌Conrick, K. (2020). What’s the difference between user-centred design and design thinking? [online]  [Accessed 3 Oct. 2022]. Medium. Available at: https://uxdesign.cc/whats-the-difference-between-user-centred-design-and-design-thinking-99bedfbc7cb 
+
+www.linkedin.com. (n.d.). Design Thinking vs. UCD, is there a difference? [online] [Accessed 3 Nov. 2022].Available at: https://www.linkedin.com/pulse/design-thinking-vs-ucd-sidhant-goyal/ 
+
+Planview. (n.d.). Benefits of Agile Development | Planview LeanKit. [online] Available at: https://www.planview.com/resources/guide/agile-methodologies-a-beginners-guide/benefits-of-agile-development/.[Accessed 9 Nov. 2022].
+
+Government of Saskatchewan. (n.d.). User-Centred Design and Why it is Important | Usability and Accessibility. [online] Available at: https://www.saskatchewan.ca/government/visual-identity-and-protocol/digital-standards-and-framework/usability-and-accessibility/user-centered-design#:~:text=The%20user%2Dcentred%20design%20process [Accessed 9 Nov. 2022].
+
+Franco Barroso, R. (2020). Do you really want a User Centered Design approach? [online] Blog | Imaginary Cloud. Available at: https://www.imaginarycloud.com/blog/user-centered-design-do-you-really-want-it/ [Accessed 7 Oct. 2022].
+
+
+Bibliography
+
+Novoseltseva, E., 2020. User-Centred Design: An Introduction - Usability Geek. [online] Usability Geek. Available at: <https://usabilitygeek.com/user-centered-design-introduction/#:~:text=User%2Dcentered%20design%20and%20UX,design%20improves%20the%20user%20experience.&text=It%20helps%20to%20understand%20users,that%20of%20being%20user%2Dcentered.> [Accessed 4 Oct 2022].
+
+Usability.gov. 2021. User-Centred Design Basics | Usability.gov. [online] Available at: <https://www.usability.gov/what-and-why/user-centered-design.html> [Accessed 5 October 2022]
+
+Bhasin, H., 2021. What are Ethical Considerations in Research? [online] Marketing91. Available at: <https://www.marketing91.com/ethical-considerations/> [Accessed 6 November 2022].
+
+Wilson, B., 2020. How A Great Mobile App Can Achieve Your Business Goals. [online] MindSea Development. Available at: <https://mindsea.com/mobile-app-goals/> [Accessed 28 October 2022].
+Le Peuple, J. and Scane, R., 2003. User Interface Design. 1st ed. 33 Southernay East, Exeter: Learning Matters, pp.1 - 13 pages. [Accessed 28 October 2022].
+Haddon-Hartle, G., 2017. 15 Key Ingredients For A Successful Mobile App. [online] Liquid State. Available at: <https://liquid-state.com/ingredients-successful-mobile-app/> [Accessed 28 October 2022].
+www.trewmarketing.com. (n.d.). 7 Elements of a Cohesive Brand Messaging & Identity Strategy. [online] Available at: https://www.trewmarketing.com/blog/how-to-create-a-cohesive-brand-identity [Accessed 29 October. 2022].
+Anon, (n.d.). Writing for Success: Compare/Contrast | English Composition 1. [online] Available at: https://www.kellogg.edu/upload/eng151/chapter/writing-for-success-comparecontrast/index.html#:~:text=Comparison%20in%20writing%20discusses%20elements.  [Accessed 29 October. 2022].
+Anon, (n.d.). What Is a Single-Page Application? Architecture, Benefits, and Challenges |. [online] Available at: https://www.spiceworks.com/tech/devops/articles/what-is-single-page-application/ [Accessed 29 October. 2022].
+Snap Surveys Blog. (2011). Difference between qualitative and quantitative research. [online] Available at: https://www.snapsurveys.com/blog/qualitative-vs-quantitative-research/#:~:text=Quantitative%20data%20collection%20methods%20include.  [Accessed 30 October. 2022].
+
+LiquidPlanner. (2015). 5 Ways Agile Helps Changing Requirements. [online] Available at: https://www.liquidplanner.com/blog/5-ways-agile-helps-manage-changing-requirements/.[Accessed 30 October. 2022]
+
+Planview. (n.d.). Benefits of Agile Development | Planview LeanKit. [online] Available at: https://www.planview.com/resources/guide/agile-methodologies-a-beginners-guide/benefits-of-agile-development/.[Accessed 30 October. 2022]
+
+Planview. (n.d.). Benefits of Agile Development | Planview LeanKit. [online] Available at: https://www.planview.com/resources/guide/agile-methodologies-a-beginners-guide/benefits-of-agile-development/.[Accessed 30 October. 2022]
+
+Morgan, R. (2016). Applying for ethical approval: Basic principles | Research Integrity. [online] Cam.ac.uk. Available at: https://www.research-integrity.admin.cam.ac.uk/research-ethics/ethics-application-guidance/applying-ethical-approval-basic-principles.[Accessed 30 October. 2022]
+
+Your Data Won’t Speak Unless You Ask It The Right Data Analysis Questions (2019). BI Blog | Data Visualization & Analytics Blog | datapine. [online] BI Blog | Data Visualization & Analytics Blog | datapine. Available at: https://www.datapine.com/blog/data-analysis-questions/.[Accessed 30 October. 2022]
+
+Toor, M. (2020). Demographic Survey Questions that Yield Valuable Insights. [online] Qualtrics. Available at: https://www.qualtrics.com/blog/demographic-survey-questions/.[Accessed 30 October. 2022]
+
+BROWNE, C. (2021). Design Thinking vs. User-Centered Design [Which is Best?]. [online] careerfoundry.com. Available at: https://careerfoundry.com/en/blog/ux-design/design-thinking-vs-user-centered/ [Accessed 6 Oct 2022].
+
 
